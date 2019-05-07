@@ -1,0 +1,13 @@
+setup.py
+bokete_crawler/__init__.py
+bokete_crawler/items.py
+bokete_crawler/middlewares.py
+bokete_crawler/pipelines.py
+bokete_crawler/settings.py
+bokete_crawler/spiders/__init__.py
+bokete_crawler/spiders/bokete.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
